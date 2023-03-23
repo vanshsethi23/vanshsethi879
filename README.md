@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C Language, Python**
 
-- 📫 How to reach me **achieverspoint879@gmail.com**
+- 📫 How to reach me: **achieverspoint879@gmail.com**
 
 - ⚡ Fun fact **Manifesting my dreams, Minding my business !**
 
