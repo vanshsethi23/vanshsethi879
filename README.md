@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vanshsethitwts" target="blank"><img src="https://img.shields.io/twitter/follow/vanshsethitwts?logo=twitter&style=for-the-badge" alt="vanshsethitwts" /></a> </p>
 
-- 🌱 I’m currently learning **C Language, Python**
+- 🌱 I’m currently learning **Java, CSS & JavaScript**
 
-- 📫 How to reach me: **achieverspoint879@gmail.com**
+- 📫 How to reach me: **vanshsethi.usar@gmail.com**
 
-- ⚡ Fun fact **Manifesting my dreams, Minding my business !**
+- ⚡ Fun fact **Manifesting my dreams, Minding my business!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
